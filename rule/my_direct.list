@@ -1,0 +1,15 @@
+DOMAIN-SUFFIX,juner.top
+DOMAIN-SUFFIX,micu.hk
+DOMAIN,hxd.as174.com
+DOMAIN,testipv6.cn
+DOMAIN-KEYWORD,test-ipv6
+IP-CIDR,139.28.232.26/32,no-resolve
+IP-CIDR,45.8.113.171/32,no-resolve
+IP-CIDR,5.223.238.178/32,no-resolve
+IP-CIDR,157.254.32.101/32,no-resolve
+IP-CIDR,157.254.32.61/32,no-resolve
+IP-CIDR,35.223.238.178/32,no-resolve
+IP-CIDR,140.82.112.26/32,no-resolve
+IP-CIDR,107.178.242.165/32,no-resolve
+IP-CIDR,20.205.243.166/32,no-resolve
+IP-CIDR,34.237.73.95/32,no-resolve
