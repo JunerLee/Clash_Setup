@@ -1,5 +1,6 @@
 DOMAIN,community.oneplus.com
 DOMAIN-KEYWORD,missuo
+DOMAIN-KEYWORD,genspark
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
